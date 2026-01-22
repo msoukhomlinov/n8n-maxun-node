@@ -1,0 +1,22 @@
+{
+	"node": "n8n-nodes-maxun.maxun",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Productivity"],
+	"subcategories": {
+		"Data & Storage": ["Data Extraction"]
+	},
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.getmaxun.com/api/authentication"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.getmaxun.com"
+			}
+		]
+	},
+	"alias": ["scraper", "scraping", "web scraping", "data extraction", "crawler"]
+}
