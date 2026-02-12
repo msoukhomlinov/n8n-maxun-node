@@ -13,7 +13,8 @@
 
 This is an n8n community node. It lets you use [Maxun](https://maxun.dev) in your n8n workflows.
 
-[Maxun](https://maxun.dev) is an [open-source](https://github.com/getmaxun/maxun) product. It is a no-code web data extraction platform that lets you train a robot in 2 minutes and scrape the web on auto-pilot. It provides a simple API endpoint to fully automate manual data collection workflows, replacing brittle or unreliable scraping solutions.
+[Maxun](https://maxun.dev) is the [open-source](https://github.com/getmaxun/maxun) no-code platform for web scraping, crawling, search and AI data extraction. Maxun can be used to turn the web into structured, reliable data. Designed to scale from simple use cases to complex, automated workflows.
+
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
